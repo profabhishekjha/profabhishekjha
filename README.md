@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello 👋, I'm Abhishek Jha</h1>
 <h3 align="center">Passionate Full-Stack Developer</h3>
-<h3 align="center">Crafting Modern and Responsive Web Interfaces with React and Front-End Technologies</h3>
+<h3 align="center">Crafting Modern and Responsive Web Interfaces with React and Making Full Stack Apps in Next js Technology</h3>
 
 - 🛒 I'm currently working on a large-scale E-commerce Website
 
